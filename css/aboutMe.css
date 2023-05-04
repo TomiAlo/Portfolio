@@ -1,0 +1,15 @@
+#aboutMe{
+    text-align:center;
+    background-color: rgb(15, 23, 42);
+}
+
+#aboutMe p{   
+    padding: 20px;
+    margin: 15%;
+    color: rgba(255, 255, 255, 0.91);
+    font-size: 32px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    overflow: auto;
+    background-color: rgba(35, 41, 77, 0.542);
+}
